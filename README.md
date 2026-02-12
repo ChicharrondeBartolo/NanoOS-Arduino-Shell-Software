@@ -17,3 +17,6 @@ Capacidades más avanzadas y con más comandos. Se ha quitado la función de ini
 
 Igual que la versión V3.0 pero con la capacidad de jugar tres en raya contra la máquina.
 
+----------------------------------------------------------------------------------------------NanoOS/V5.0--------------------------------------------------------------------------------------------------------------
+
+Más comandos y volvió el inicio de sesión. Usuario por defecto: admin, Contraseña por defecto: 1234. Puedes cambiar la contraseña y el usuario desde el código.
