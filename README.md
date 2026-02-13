@@ -24,3 +24,8 @@ Más comandos y volvió el inicio de sesión. Usuario por defecto: admin, Contra
 // V5.1
 
 Ahora con más juegos ( Ajedrez, undir la flota y tres en raya ). Se redujo el uso de comandos para mejorar la experiencia de juego. El inicio de sesión sigue estando presente.
+
+
+----------------------------------------------------------------------------------------------NanoOS/V6.0--------------------------------------------------------------------------------------------------------------
+
+Interfaz gráfica mejorada, capacidad de enviar mensajes en morse a traves del led "L". Comandos más avanzados y un mayor control sobre la máquina.
