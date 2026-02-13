@@ -20,3 +20,7 @@ Igual que la versión V3.0 pero con la capacidad de jugar tres en raya contra la
 ----------------------------------------------------------------------------------------------NanoOS/V5.0--------------------------------------------------------------------------------------------------------------
 
 Más comandos y volvió el inicio de sesión. Usuario por defecto: admin, Contraseña por defecto: 1234. Puedes cambiar la contraseña y el usuario desde el código.
+
+// V5.1
+
+Ahora con más juegos ( Ajedrez, undir la flota y tres en raya ). Se redujo el uso de comandos para mejorar la experiencia de juego. El inicio de sesión sigue estando presente.
